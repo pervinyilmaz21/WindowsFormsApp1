@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="AidatForm.cs" />
+    <File Path="BorçlularForm.cs" />
+    <File Path="OdenenOdenmeyenForm.cs" />
+    <File Path="SakinlerForm.cs" />
+  </Folder>
+  <Project Path="WindowsFormsApp1/WindowsFormsApp1.csproj" Id="2558170b-2037-4ffa-8113-bfa76842366a" />
+</Solution>
